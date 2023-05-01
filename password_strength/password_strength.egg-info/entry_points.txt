@@ -1,3 +1,2 @@
 [console_scripts]
-password_strength = password_strength:password_strength
-
+password_strength = password_strength:main

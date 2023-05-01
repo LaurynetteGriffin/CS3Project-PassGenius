@@ -1,11 +1,7 @@
-Metadata-Version: 1.2
+Metadata-Version: 2.1
 Name: password-strength
 Version: 0.1
 Summary: Check the strength of a password
-Home-page: UNKNOWN
-License: UNKNOWN
-Description: UNKNOWN
-Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent

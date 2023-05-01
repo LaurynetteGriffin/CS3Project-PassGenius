@@ -1,4 +1,5 @@
-passwords.py
+password_strength.py
+passwordss.py
 setup.py
 password_strength.egg-info/PKG-INFO
 password_strength.egg-info/SOURCES.txt

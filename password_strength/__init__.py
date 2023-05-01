@@ -1,4 +1,2 @@
-from passwords import password_strength
+from passwordss import password_strength
 
-result = password_strength("my_password")
-print(result)
