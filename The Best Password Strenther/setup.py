@@ -1,14 +1,14 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='The_Best_password_strength',
+    name='Password_strengthener',
     version='0.1',
     description='Check the strength of a password',
     py_modules=['password_strength', 'passwordss'],
     entry_points={
-        'console_scripts': ['password_strength=password_strength:main']
+        'console_scripts': ['password_strengthener=password_strengthener:main']
     },
-    install_requires=['password_strength'],
+    install_requires=['password_strengthener'],
     
     classifiers=[
         'Programming Language :: Python :: 3',

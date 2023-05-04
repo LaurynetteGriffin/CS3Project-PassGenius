@@ -1,4 +1,4 @@
-def password_strength(password):
+def password_strengthener(password):
     # Check the length of the password
     if len(password) < 8:
         return "weak"

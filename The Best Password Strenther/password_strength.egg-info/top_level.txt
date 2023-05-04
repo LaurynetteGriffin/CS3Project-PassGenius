@@ -1,2 +1,2 @@
-password_strength
+password_strengthener
 passwordss
