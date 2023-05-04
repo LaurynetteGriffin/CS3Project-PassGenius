@@ -1,2 +1,2 @@
-from passwordss import password_strength
+from passwordss import password_strengthener
 
