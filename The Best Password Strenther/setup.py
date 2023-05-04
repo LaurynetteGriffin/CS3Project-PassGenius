@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='password_strength',
+    name='The_Best_password_strength',
     version='0.1',
     description='Check the strength of a password',
     py_modules=['password_strength', 'passwordss'],
